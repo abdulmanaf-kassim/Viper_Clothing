@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/drawable-anydpi/ic_addO.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_home.xml" value="0.21" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_kids_outfits.xml" value="0.22" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_men_outfits.xml" value="0.25" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase.xml" value="0.22" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase2.xml" value="0.15" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase3.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase4.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_k1st.xml" value="0.18" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_k2nd.xml" value="0.22" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_k3rd.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_k4th.xml" value="0.18" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_w1st.xml" value="0.25" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_w2nd.xml" value="0.25" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_w3rd.xml" value="0.1" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_purchase_w4th.xml" value="0.15" />
+        <entry key="..\:/Users/abdul/AndroidStudioProjects/ViperClothing/app/src/main/res/layout/activity_women_outfits.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

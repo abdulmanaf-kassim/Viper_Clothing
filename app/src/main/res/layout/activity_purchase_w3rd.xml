@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PurchaseW3rd">
+
+
+
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="366dp"
+        android:layout_height="253dp"
+        android:layout_marginTop="100dp"
+        android:contentDescription="@string/kg_women"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/wtt" />
+
+    <TextView
+        android:id="@+id/txtKmO"
+        android:layout_width="247dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="52dp"
+        android:text="@string/dashiki"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgView" />
+
+    <TextView
+        android:id="@+id/KiPtxt"
+        android:layout_width="68dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="20dp"
+        android:fontFamily="@font/anonymous_pro_bold"
+        android:text="@string/_85"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.696"
+        app:layout_constraintStart_toEndOf="@+id/txtKmO"
+        app:layout_constraintTop_toBottomOf="@+id/imgView" />
+
+    <Button
+        android:id="@+id/addChartBtn"
+        android:layout_width="235dp"
+        android:layout_height="89dp"
+        android:layout_marginBottom="28dp"
+        android:backgroundTint="#0C0C0C"
+        android:drawableEnd="@drawable/ic_add"
+        android:text="@string/add_to_cart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <RadioButton
+        android:id="@+id/sBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:text="@string/s"
+        app:layout_constraintBottom_toBottomOf="@+id/mBtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/mBtn"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <RadioButton
+        android:id="@+id/mBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:text="@string/m"
+        app:layout_constraintBottom_toTopOf="@+id/addChartBtn"
+        app:layout_constraintStart_toEndOf="@+id/sBtn"
+        app:layout_constraintTop_toBottomOf="@+id/txtKmO"
+        app:layout_constraintVertical_bias="0.421" />
+
+    <RadioButton
+        android:id="@+id/lBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginEnd="44dp"
+        android:text="@string/l"
+        app:layout_constraintBottom_toTopOf="@+id/addChartBtn"
+        app:layout_constraintEnd_toStartOf="@+id/xlBtn"
+        app:layout_constraintTop_toBottomOf="@+id/txtKmO"
+        app:layout_constraintVertical_bias="0.421" />
+
+    <RadioButton
+        android:id="@+id/xlBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="36dp"
+        android:text="@string/xl"
+        app:layout_constraintBottom_toBottomOf="@+id/lBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/lBtn"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
